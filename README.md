@@ -27,7 +27,7 @@
 <a href="https://www.facebook.com/dev.hassankhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/dev.hassankhan/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/dev.hassankhan?igsh=bGJlMDl1Mnl1YWV5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev.hassankhan" height="30" width="40" /></a>
 <a href="https://medium.com/@dev.hassankhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dev.hassankhan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@codingxtalk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="CodingxTalk" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@hassanflutter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="CodingxTalk" height="30" width="40" /></a>
 </p>
 
 
