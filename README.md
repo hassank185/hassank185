@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://x.com/hassan_4277" target="blank"><img src="https://img.shields.io/twitter/follow/hassan_4277?logo=twitter&style=for-the-badge" alt="hassan_4277" /></a> </p>
 
-# Hi, I'm Muhammad Hassan 👋  
 
 ### 🚀 About Me
 
