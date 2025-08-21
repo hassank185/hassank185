@@ -3,19 +3,23 @@
 
 <p align="left"> <a href="https://x.com/hassan_4277" target="blank"><img src="https://img.shields.io/twitter/follow/hassan_4277?logo=twitter&style=for-the-badge" alt="hassan_4277" /></a> </p>
 
-- 🔭 I’m currently working on **YouTube & Projects at eTechViral**
+# Hi, I'm Muhammad Hassan 👋  
 
-- 🌱 I’m currently exploring **Flutter & Dart & Software Architectures (deep)**
+### 🚀 About Me
 
-- 👯 I’m looking to collaborate on **YouTube & other open-source projects**
-
+- 🔭 Currently working on **freelance projects & creating technical content**
+  
+- 🌱 Exploring **Flutter, Dart & Advanced Software Architectures**
+  
+- 👯 Open to collaborating on **open-source projects & YouTube content**
+  
 - 📝 I write articles on [Medium](https://medium.com/@dev.hassankhan)
-
-- 💬 Ask me about **Mobile App Development, Flutter, Android, iOS, Software Architectures**
-
-- 📫 How to reach me **hk185429@gmail.com**
-
-- ⚡ Fun fact **Sometimes I code, Sometimes I debug & Sometimes I Deploy.**
+  
+- 💬 Ask me about **Mobile App Development (Flutter, Android, iOS), Clean Architecture, and Scalable Design Patterns**
+  
+- 📫 Reach me at **dev.hassan09@gmail.com**
+  
+- ⚡ Fun fact: *Sometimes I code, sometimes I debug, sometimes I deploy.*  
 
 <h2 dir="auto"><a id="user-content--socials" class="anchor" aria-hidden="true" href="#-socials"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">🌐</g-emoji> Socials</h2>
 
